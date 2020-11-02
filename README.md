@@ -5,7 +5,7 @@
 The purpose of this analysis is to utilize the data captured from New York City to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. With the analysis this will help support the case in creating the bike-sharing program in Des Moines. 
 
 ## Results
-[Link to Dashboard](https://prod-useast-b.online.tableau.com/#/site/taniasite/workbooks/9015?:origin=card_share_link)
+[Link to Dashboard](https://prod-useast-b.online.tableau.com/#/site/taniasite/views/Citibike_Challenge/CitiBikeChallengeStory?:iid=1)
 
 Please refer to CitiBike Challenge Story
 
