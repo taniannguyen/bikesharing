@@ -7,6 +7,6 @@ The purpose of this analysis is to utilize the data captured from New York City 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 [Link to Dashboard](https://prod-useast-b.online.tableau.com/#/site/taniasite/workbooks/9015?:origin=card_share_link)
 
-
+![NYC Average Trip Duration](Images/Avg trip duration)
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
