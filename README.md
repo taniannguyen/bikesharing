@@ -42,7 +42,7 @@ The result of this chart whos that males and females who are subscribers ride mo
 
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary
 After the level analysis, I believe Des Moines will be successful in the bike sharing program. Males and Females will both ride as per the charts, majority will be male as they will ride longer and will utilize the program. Male using in NYC was high this will have the same affect in Des Moines. Two additional visualizations that I would perform would be compare the gender and age of bike riders in a line chart and another visualization would be usertype and duration of riding in a pie chart.
 
 
